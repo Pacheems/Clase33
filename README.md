@@ -1,1 +1,1 @@
-# Clase33
+Plantilla del código C34
